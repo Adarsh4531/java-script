@@ -1,3 +1,2 @@
-# full stack dwveloper
+# full stack developer
 
-code  repo for java script
